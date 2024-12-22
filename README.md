@@ -58,9 +58,11 @@ The dataset consists of Spotify tracks with the following features:
    git clone https://github.com/yourusername/spotify-eda-project.git
    
 2. Install required Python libraries:
+    ```bash
    pip install -r requirements.txt
    
 4. Open the notebook and run it:
+    ```bash
    jupyter notebook "Spotify Track Data Analysis.ipynb"
 
    
