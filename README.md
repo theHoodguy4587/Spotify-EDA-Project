@@ -65,9 +65,9 @@ The dataset consists of Spotify tracks with the following features:
 
    
 ## Tools and Libraries Used
--Pandas: For data manipulation and cleaning.
--Matplotlib & Seaborn: For data visualization.
--NumPy: For numerical computations.
+   -Pandas: For data manipulation and cleaning.
+   -Matplotlib & Seaborn: For data visualization.
+   -NumPy: For numerical computations.
 
 ## Contributing
 Contributions are welcome! If you have ideas to enhance the project or build additional features, feel free to fork this repository and submit a pull request.
